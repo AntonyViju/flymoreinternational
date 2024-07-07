@@ -1,1 +1,7 @@
-echo "# flymoreinternational" >> README.md git init git add README.md git commit -m "first commit" git branch -M main git remote add origin https://afreentbo.github.io/flymoreinternational/ git push -u origin main
+echo "# flymoreinternational" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://afreentbo.github.io/flymoreinternational/
+git push -u origin main  
